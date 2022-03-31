@@ -1,3 +1,7 @@
 this is the first test file inside the folder!
 this is added as a new line, outside of folder! This should be visible in the other file inside the folder.
 this is a new 4th line
+------------------------------
+------------------------------.
+
+
